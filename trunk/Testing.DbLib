@@ -1,0 +1,37 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\SVNViews\ProductDesigns\Libraries\TestTools\Testing.MDB;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=Testing.MDB
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=SVNDBLib
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=Testing_SchLib
+[Table1]
+SchemaName=
+TableName=Testing_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=Part Number0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=149|Library Ref0=168|Footprint Ref0=214|Comment0=206|Order Code0=535|Component Type0=110|Manufacturer0=187
+[FieldMap1]
+Options=FieldName=Testing_SchLib.Part Number|TableNameOnly=Testing_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Testing_SchLib.Library Ref|TableNameOnly=Testing_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Testing_SchLib.Footprint Ref|TableNameOnly=Testing_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
