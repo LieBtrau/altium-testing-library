@@ -26,7 +26,7 @@ TableName=Testing_SchLib
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=Part Number0=Up
+BrowserOrder_Sorting=Library Ref0=Up
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Part Number0=149|Library Ref0=169|Footprint Ref0=211|Comment0=205|Order Code0=522|Component Type0=104|Manufacturer0=185
 [FieldMap1]
