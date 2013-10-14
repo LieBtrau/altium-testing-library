@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Documents and Settings\test\My Documents\SvnViews\altium-testing-library\Testing.MDB;Persist Security Info=False
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\SVNViews\altium-testing-library\Testing.MDB;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Library Ref0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=149|Library Ref0=169|Footprint Ref0=211|Comment0=205|Order Code0=522|Component Type0=104|Manufacturer0=185
+BrowserOrder_Visible=Part Number0=149|Library Ref0=168|Footprint Ref0=214|Comment0=206|Order Code0=535|Component Type0=110|Manufacturer0=187
 [FieldMap1]
 Options=FieldName=Testing_SchLib.Part Number|TableNameOnly=Testing_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
