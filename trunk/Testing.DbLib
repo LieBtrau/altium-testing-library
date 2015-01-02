@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\SVNViews\a
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,6 +26,9 @@ TableName=Blad1$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=Article0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Article0=206|Description0=238|Symbol0=168|Footprint0=214|Value0=206|Category0=69|Sub Category0=92|Status0=55|Order Code0=535
 [FieldMap1]
 Options=FieldName=Blad1$.Article|TableNameOnly=Blad1$|FieldNameOnly=Article|FieldType=0|ParameterName=Article|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
