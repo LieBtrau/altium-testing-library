@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\SVNViews\altium-testing-library\Testing.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\GitViews\altium-testing-library\Testing.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -15,7 +15,7 @@ LibraryDatabaseType=Microsoft Excel
 LibraryDatabasePath=Testing.xls
 DatabasePathRelative=1
 TopPanelCollapsed=0
-LibrarySearchPath=..\ProductDesigns\Libraries\TIS_Symbols_TCO\Traficon_Symbol_Article_TCO;..\ProductDesigns\Libraries\TIS_Footprints;Testing
+LibrarySearchPath=Testing;C:\data\SVNViews\ProductDesigns\Libraries\TIS_Symbols_TCO;C:\data\SVNViews\ProductDesigns\Libraries\TIS_Footprints
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
@@ -26,9 +26,6 @@ TableName=Blad1$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=Article0=Up
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Article0=206|Description0=238|Symbol0=168|Footprint0=214|Value0=206|Category0=69|Sub Category0=92|Status0=55|Order Code0=535
 [FieldMap1]
 Options=FieldName=Blad1$.Article|TableNameOnly=Blad1$|FieldNameOnly=Article|FieldType=0|ParameterName=Article|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

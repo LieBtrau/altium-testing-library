@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\SVNViews\altium-testing-library\Diverse\Diverse.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\data\GitViews\altium-testing-library\Diverse\Diverse.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,8 +11,8 @@ RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=
-LibraryDatabasePath=
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=C:\data\GitViews\altium-testing-library\Diverse\Diverse.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=..\Testing\Symbols;..\Diverse;..\OldTesting\Symbols;..\..\ProductDesigns\Libraries\TIS_Footprints\Traficon_Footprints_Article;..\..\ProductDesigns\Libraries\TIS_Symbols_TCO\Traficon_Symbol_Article_TCO
