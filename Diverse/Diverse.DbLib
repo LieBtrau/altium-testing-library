@@ -15,7 +15,7 @@ LibraryDatabaseType=Microsoft Excel
 LibraryDatabasePath=C:\data\GitViews\altium-testing-library\Diverse\Diverse.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
-LibrarySearchPath=..\Testing\Symbols;..\Diverse;..\OldTesting\Symbols;..\..\ProductDesigns\Libraries\TIS_Footprints\Traficon_Footprints_Article;..\..\ProductDesigns\Libraries\TIS_Symbols_TCO\Traficon_Symbol_Article_TCO
+LibrarySearchPath=..\Testing\Symbols;..\Diverse;..\OldTesting\Symbols;..\..\..\SVNViews\ProductDesigns\Libraries\TIS_Footprints\Traficon_Footprints_Article
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
@@ -31,7 +31,7 @@ Options=FieldName=Blad1$.Article|TableNameOnly=Blad1$|FieldNameOnly=Article|Fiel
 [FieldMap2]
 Options=FieldName=Blad1$.Description|TableNameOnly=Blad1$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=Blad1$.Value|TableNameOnly=Blad1$|FieldNameOnly=Value|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Blad1$.Value|TableNameOnly=Blad1$|FieldNameOnly=Value|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
 Options=FieldName=Blad1$.Symbol|TableNameOnly=Blad1$|FieldNameOnly=Symbol|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]

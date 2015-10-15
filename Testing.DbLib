@@ -15,7 +15,7 @@ LibraryDatabaseType=Microsoft Excel
 LibraryDatabasePath=Testing.xls
 DatabasePathRelative=1
 TopPanelCollapsed=0
-LibrarySearchPath=Testing;C:\data\SVNViews\ProductDesigns\Libraries\TIS_Symbols_TCO;C:\data\SVNViews\ProductDesigns\Libraries\TIS_Footprints
+LibrarySearchPath=C:\data\SVNViews\ProductDesigns\Libraries\TIS_Symbols_TCO;C:\data\SVNViews\ProductDesigns\Libraries\TIS_Footprints;Testing\Symbols;..\..\SVNViews\ProductDesigns\GENERIC\LIBRARIES\TIS_Footprints
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
@@ -26,6 +26,9 @@ TableName=Blad1$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=Symbol0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Article0=206|Description0=320|Symbol0=168|Footprint0=214|Value0=206|Category0=69|Sub Category0=92|Status0=55|Order Code0=219|Catalogus_Nr0=92
 [FieldMap1]
 Options=FieldName=Blad1$.Article|TableNameOnly=Blad1$|FieldNameOnly=Article|FieldType=0|ParameterName=Article|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -35,4 +38,4 @@ Options=FieldName=Blad1$.Symbol|TableNameOnly=Blad1$|FieldNameOnly=Symbol|FieldT
 [FieldMap4]
 Options=FieldName=Blad1$.Footprint|TableNameOnly=Blad1$|FieldNameOnly=Footprint|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Blad1$.Value|TableNameOnly=Blad1$|FieldNameOnly=Value|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Blad1$.Value|TableNameOnly=Blad1$|FieldNameOnly=Value|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
